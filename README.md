@@ -1,6 +1,6 @@
 # CSV Sorter
 
-![CSV Sorter Banner](https://imgur.com/KjejVVL)
+![GG](https://i.imgur.com/yourImageID.jpg)
 
 **CSV Sorter** is an intuitive and interactive web application designed to help users sort and organize data from CSV files with ease. Built with modern technologies like React, PapaParse, and Framer Motion, the app provides a sleek, responsive, and user-friendly interface for handling CSV files.
 
