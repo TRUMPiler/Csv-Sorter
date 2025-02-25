@@ -1,0 +1,29 @@
+.column-selector {
+    margin: 20px 0;
+    text-align: center;
+  }
+  
+  .selector-label {
+    font-size: 18px;
+    font-weight: bold;
+    color: #333;
+  }
+  
+  .selector-dropdown {
+    margin-left: 10px;
+    padding: 8px 12px;
+    font-size: 16px;
+    border: 2px solid #4a90e2;
+    border-radius: 8px;
+    background-color: #fff;
+    color: #333;
+    cursor: pointer;
+    transition: all 0.3s ease;
+  }
+  
+  .selector-dropdown:hover {
+    border-color: #357ae8;
+    background-color: #f1faff;
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+  }
+  
