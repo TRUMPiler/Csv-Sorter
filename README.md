@@ -66,7 +66,7 @@ Ensure you have the following installed:
 
 1. Navigate to the backend directory:
    ```bash
-   cd python-server
+   cd backend
    ```
 
 2. Install required Python packages:
@@ -76,7 +76,7 @@ Ensure you have the following installed:
 
 3. Start the Python server:
    ```bash
-   python server.py
+   python runserver
    ```
 
 4. The server will run on `http://127.0.0.1:5000`.
